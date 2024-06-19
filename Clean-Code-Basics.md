@@ -25,7 +25,9 @@ software for our life will again increase significantly.
 - The autonomous (driverless) car.
 
 Bug in above software-intense systems can have catastrophic consequences
-Quality is under no circumstances negotiable in these kinds of systems - **Never!**## Good Names
+Quality is under no circumstances negotiable in these kinds of systems - **Never!**
+
+## Good Names
 **Programs must be written for people to read, and only incidentally for machines to execute.**
 —Hal Abelson and Gerald Jay Sussman, 1984
 - Source code is read much more often by developers than translated by a compiler
